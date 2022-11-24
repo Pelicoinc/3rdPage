@@ -1,0 +1,21 @@
+body {
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+   background-color: aquamarine;
+   background-image: url(dog1.jpeg);
+   background-repeat: no-repeat;
+
+}
+
+.jpeg1 {
+   max-width: 10rem;
+   max-height: 10rem;
+   
+}
+.png1 {
+   max-width: 15rem;
+   max-height: 15rem;
+}
